@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Web
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "maqsoftwaremain.github.io", ".", "{6D84189D-99D9-49B3-B01F-E2BF0B437D66}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "maqsoftwaremain.github.io", ".", "{A7C7DAB3-8775-481D-AC12-D1345B3935E9}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_14482"
-		Debug.AspNetCompiler.PhysicalPath = "..\maqsoftwaremain.github.io\"
+		Debug.AspNetCompiler.PhysicalPath = "..\maqchiragl.github.io\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14482\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_14482"
-		Release.AspNetCompiler.PhysicalPath = "..\maqsoftwaremain.github.io\"
+		Release.AspNetCompiler.PhysicalPath = "..\maqchiragl.github.io\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14482\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "14482"
-		SlnRelativePath = "..\maqsoftwaremain.github.io\"
+		SlnRelativePath = "..\maqchiragl.github.io\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -30,8 +30,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6D84189D-99D9-49B3-B01F-E2BF0B437D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D84189D-99D9-49B3-B01F-E2BF0B437D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C7DAB3-8775-481D-AC12-D1345B3935E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C7DAB3-8775-481D-AC12-D1345B3935E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
